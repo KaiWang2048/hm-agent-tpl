@@ -1,0 +1,21 @@
+{
+  "name": "wk-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "download-git-repo": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "wk-cli": "index.js",
+    "hm-cli": "index.js"
+  }
+}
